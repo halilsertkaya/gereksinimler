@@ -1,4 +1,4 @@
-React JS Hakimiyetine erişip kurgulayı anlayabilmek için minimum Javascript deneyimi:
+React JS Hakimiyetine erişip kurgulamayı anlayabilmek için minimum Javascript deneyimi:
 
 1.  Değişkenler ve Veri Tipleri:
 •	Değişken tanımlama ve atama işlemleri
