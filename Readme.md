@@ -2,7 +2,9 @@ React JS Hakimiyetine erişip kurgulayı anlayabilmek için minimum Javascript d
 
 1.  Değişkenler ve Veri Tipleri:
 •	Değişken tanımlama ve atama işlemleri
+
 •	Veri tipleri: string, number, boolean, null, undefined, object
+
 •	Değişkenlerin kapsamı: global ve yerel değişkenler
 
 2.  Operatörler:
