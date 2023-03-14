@@ -1,4 +1,4 @@
-# Minimum Bilgi Gereksinimleri (javascript-Reactjs)
+# Minimum Bilgi Gereksinimleri (Javascript-ReactJS)
 
 ## Javascript deneyimi:
 1.  Değişkenler ve Veri Tipleri:
