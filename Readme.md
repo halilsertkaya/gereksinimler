@@ -1,6 +1,6 @@
-## Minimum Bilgi Gereksinimleri (javascript-Reactjs)
+# Minimum Bilgi Gereksinimleri (javascript-Reactjs)
 
-# Azami Javascript deneyimi:
+## Javascript deneyimi:
 1.  Değişkenler ve Veri Tipleri:
 -	Değişken tanımlama ve atama işlemleri
 -	Veri tipleri: string, number, boolean, null, undefined, object
@@ -42,7 +42,7 @@
 
 ---
 
-ReactJS hakimiyeti için gereken konular:
+##  ReactJS deneyimi:
 
  1.	ReactJS Nedir?:
 -	ReactJS'in ne olduğunu anlayın
@@ -88,4 +88,4 @@ ReactJS hakimiyeti için gereken konular:
 -	Jest kullanımı
 
 
-Konu ile ilgili projeler üzerinde çalışmaya başlamak için azami bilgi ihtiyaçlarını oldukça yazacağım. 
+En basit ifade ile ReactJS kullanımına bir şekilde anlamaya çalışmak ve devamındaki süreçlerin bireysel araştırma ve geliştirme üzerine olduğunu düşünmekteyim. Değişmesini istediğiniz bir kısım mevcutsa söylemeniz yeterli, kolaylıklar dilerim.
